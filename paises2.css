@@ -1,0 +1,22 @@
+header {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  body{
+    display: block;
+    background-color: rgb(196, 194, 191);
+  }
+  main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  img{
+    border: none;
+  }
+  .iframe-wrapper{
+    text-align: center;
+  }
+
